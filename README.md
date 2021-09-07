@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Jack! 👋</h1>
 
-<!--
-**jackrvn/jackrvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://linkedin.com/in/irvinejack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="@irvinejack" height="30" width="30" /></a>
+</p>
 
-Here are some ideas to get you started:
+- 📖 I'm currently a third-year undergraduate studying **Artificial Intelligence** at The University of Edinburgh.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💡 I’m a Director at **Potential Innovations Ltd** [https://potentialinnovations.com](https://potentialinnovations.com)
+
+- 📱 I have experience in cross-platform app development, data science and machine learning
+
+- 💬 Ask me about **Flutter, Dart and Python**
+
+- 🇨🇳 I spent a year in **Tianjin, China** learning Mandarin but am always looking to practise and improve
